@@ -1,6 +1,6 @@
 ## Hi there
 
-## Tip of the day (07 Mar) in ITRANS TRANSLITERATION - parampada sopaanam paTham
+## Motto of the day (07 Mar) in ITRANS TRANSLITERATION - parampada sopaanam paTham
 
 ---- 
 ## OLD
