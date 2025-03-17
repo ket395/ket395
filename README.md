@@ -8,6 +8,10 @@ I would like to be an expert software engineer unconstrained by programming lang
 
 ## [WARNING] - My personal and professional websites are don't exist, to explain, they are not owned/managed by me. You have been warned twice. Do not get scammed.
 
+## Mastering categorical female psychology sans a professor's supervision
+
+What could possibly go wrong?
+
 ---- 
 ## OLD
 
