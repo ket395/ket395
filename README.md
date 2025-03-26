@@ -6,7 +6,7 @@ A software engineer engineers software systems. I love being a intermediate leve
 
 I would like to be an expert software engineer unconstrained by programming languages by the end of Q3 of this year, focusing on Shadow IT which is the branch of IT that actually meets human needs while balancing security and safety at the risk of sometimes breaking compliance with literal interpretations of company IT policy.
 
-## [WARNING] - My personal and professional websites are don't exist, to explain, they are not owned/managed by me. You have been warned twice. Do not get scammed.
+## [WARNING] - My personal and professional websites are don't exist, to explain, they are not owned/managed by me. You have been warned more than 3 times. Do not get scammed.
 
 ## Mastering categorical female psychology sans a professor's supervision
 
