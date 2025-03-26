@@ -10,7 +10,16 @@ I would like to be an expert software engineer unconstrained by programming lang
 
 ## Mastering categorical female psychology sans a professor's supervision
 
-What could possibly go wrong?
+What could possibly go wrong? Somethings went wrong but then I clawed my way back, just kidding I took a midnight stroll in the beautiful stormclad moonlight like a unique nocturnal memeber of Hominidae family, why unique? Because unique I am.
+
+## BRAGGING
+
+## Steps to view the faint and vague signals of my resume. Which are clear as day to the experts and engineers.
+
+- Create a folder from which a web server is serving you local files if they ar present at suitable intervals otherwise idling for a fixed time period.
+- Download https://github.com/ket395/ket395/blob/22b3523addf54c768a20ca6d2a2702fd2e9574cd/Top-languages-badges-Jan2025.html This is the main file.
+- Download https://github.com/ket395/ket395/blob/22b3523addf54c768a20ca6d2a2702fd2e9574cd/night-theme.css
+- Ensure server can reead them both. Then serve them and feast your eyes, hope your server can correctly render the icons.
 
 ---- 
 ## OLD
