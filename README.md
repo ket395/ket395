@@ -19,7 +19,7 @@ What could possibly go wrong? Somethings went wrong but then I clawed my way bac
 - Create a folder from which a web server is serving you local files if they ar present at suitable intervals otherwise idling for a fixed time period.
 - Download https://github.com/ket395/ket395/blob/22b3523addf54c768a20ca6d2a2702fd2e9574cd/Top-languages-badges-Jan2025.html This is the main file.
 - Download https://github.com/ket395/ket395/blob/22b3523addf54c768a20ca6d2a2702fd2e9574cd/night-theme.css
-- Ensure server can reead them both. Then serve them and feast your eyes, hope your server can correctly render the icons.
+- Ensure server can reead them both. Then serve them and feast your eyes, ya filthy pirate!
 
 ---- 
 ## OLD
