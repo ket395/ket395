@@ -1,0 +1,17 @@
+/* THIS IS DARK THEME FILE  */
+body {
+  color: white;
+  background-color: black;
+}
+
+div {
+  display: flex;
+  background: #000000;
+}
+
+p {
+  display: flex;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
