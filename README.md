@@ -10,7 +10,7 @@ Self sdvert - I'm a MS graduate in a humanities field. And one higher degree in 
 
 ## [WARNING] - My personal and professional websites are don't exist, to explain, they are not owned/managed by me. You have been warned more than 3 times. Do not get scammed.
 
-## Mastering categorical female psychology sans a professor's supervision
+## Mastering categorical female psychology sans a professor's or supervisor's supervision
 
 What could possibly go wrong? Somethings went wrong but then I clawed my way back, just kidding I took a midnight stroll in the beautiful stormclad moonlight like a unique nocturnal memeber of Hominidae family, why unique? Because unique I am.
 
@@ -25,6 +25,9 @@ What could possibly go wrong? Somethings went wrong but then I clawed my way bac
 
 ---- 
 ## OLD
+
+https://github.com/JeffHoogland/moksha/issues/278 LoL among other things, why would you use Bodhi Linux? and why are config files not stored in user's config directory? Sanity
+is a rarity in some desktop environments.
 
 ## MoTD - Ensured fake theses of students and professors get the attention required. If you lost your shot at a PhD in CS twice after completing the work just stop. Multidisciplnary research is not for you.
 
