@@ -1,6 +1,6 @@
 ## Hi there
 
-## the day (09 Mar) My primary domain - Mental 3ngineering
+## the day (09 Apr) My primary domain - Mental 3ngineering
 
 A software engineer engineers software systems. I love being a intermediate level ME, it makes al subdomains/branches of hard science and engineering simpler and approachable for me. ME engineers x systems. X is ?
 
