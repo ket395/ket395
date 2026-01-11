@@ -1,6 +1,6 @@
 ## Hi there
 
-## BRAGGING
+## BRAGGING (is def out of touch with reality but in a good way )
 
 ## Steps to view the faint and vague signals of my journey. Which are clear as day to none of the others.
 
